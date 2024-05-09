@@ -1,4 +1,11 @@
+# Ignore executable files
 *.exe
-*.dill
+
+# Ignore dynamic link library files
+*.dll
+
+# Ignore C source files
 *.c
+
+# Ignore C header files
 *.h
